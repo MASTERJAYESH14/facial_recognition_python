@@ -5,6 +5,7 @@ OpenCV, FacialRecognition will be used in dected the live face and matching with
 The Firebase databse consist of Student's ids and their picture and encodings.
 
 NOVELITY: Our project is based on live atttendence marking i.e the database is updated as soon as a person marks his/her attendence. 
+
 Frontend- Divyansh Chouhan
 Backend- Aryan Tyagi
 API/ bridge between frontend and backend- Jayesh Anand
