@@ -14,6 +14,7 @@ info = {
     {"Name":"Pranav Gupta",
      "Enrollment_No" : "E23CSEU0301", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -21,6 +22,7 @@ info = {
     {"Name":"Harshit Dhar",
      "Enrollment_No" : "E23CSEU0302", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -28,6 +30,7 @@ info = {
     {"Name":"Harsh Sinha",
      "Enrollment_No" : "E23CSEU0303", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -35,6 +38,7 @@ info = {
     {"Name":"Aryan Tyagi",
      "Enrollment_No" : "E23CSEU0304", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -42,6 +46,7 @@ info = {
     {"Name":"Aarav Sareen",
      "Enrollment_No" : "E23CSEU0305", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -49,6 +54,7 @@ info = {
     {"Name":"Sarthak Arora",
      "Enrollment_No" : "E23CSEU0306", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -56,6 +62,7 @@ info = {
     {"Name":"Divyansh Chouhan",
      "Enrollment_No" : "E23CSEU0307", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -63,6 +70,7 @@ info = {
     {"Name":" Harpreet Singh Gandh",
      "Enrollment_No" : "E23CSEU0308", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -70,6 +78,7 @@ info = {
     {"Name":" Prince pokharna",
      "Enrollment_No" : "E23CSEU0309", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -77,6 +86,7 @@ info = {
     {"Name":"Saksham Pandit",
      "Enrollment_No" : "E23CSEU0310", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -84,6 +94,7 @@ info = {
     {"Name":"Mehar Singh",
      "Enrollment_No" : "E23CSEU0311", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -91,6 +102,7 @@ info = {
     {"Name":"Jayesh Anand",
      "Enrollment_No" : "E23CSEU0312", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -98,6 +110,7 @@ info = {
     {"Name":"Aditi Singh",
      "Enrollment_No" : "E23CSEU0313", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -105,6 +118,7 @@ info = {
     {"Name":"Abhinav Vainkatesh",
      "Enrollment_No" : "E23CSEU0314", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -112,6 +126,7 @@ info = {
     {"Name":"Harshit Dwivedi",
      "Enrollment_No" : "E23CSEU0315", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -119,6 +134,7 @@ info = {
     {"Name":"Arsh Srivastava",
      "Enrollment_No" : "E23CSEU0316", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
     
@@ -126,6 +142,7 @@ info = {
     {"Name":" Nitya Goel",
      "Enrollment_No" : "E23CSEU0317", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -133,6 +150,7 @@ info = {
     {"Name":"Jashanpreet Singh",
      "Enrollment_No" : "E23CSEU0318", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -140,6 +158,7 @@ info = {
     {"Name":"Bakul Mehta",
      "Enrollment_No" : "E23CSEU0319", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -147,6 +166,7 @@ info = {
     {"Name":"Krrish Chhabra",
      "Enrollment_No" : "E23CSEU0320", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -154,6 +174,7 @@ info = {
     {"Name":"Anousha Singh",
      "Enrollment_No" : "E23CSEU0321", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -161,6 +182,7 @@ info = {
     {"Name":"Krish bagga",
      "Enrollment_No" : "E23CSEU0322", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -168,6 +190,7 @@ info = {
     {"Name":" Kairav Dixit",
      "Enrollment_No" : "E23CSEU0323", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -175,6 +198,7 @@ info = {
     {"Name":"Anant Mishra",
      "Enrollment_No" : "E23CSEU0324", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -182,6 +206,7 @@ info = {
     {"Name":"Navya Purohit",
      "Enrollment_No" : "E23CSEU0325", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -189,6 +214,7 @@ info = {
     {"Name":"Kshitij Sahdev",
      "Enrollment_No" : "E23CSEU0326", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -196,6 +222,7 @@ info = {
     {"Name":"Mrigashi",
      "Enrollment_No" : "E23CSEU0327", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -203,6 +230,7 @@ info = {
     {"Name":"Ashvin sharma",
      "Enrollment_No" : "E23CSEU0328", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -210,6 +238,7 @@ info = {
     {"Name":"Samya Gupta",
      "Enrollment_No" : "E23CSEU0329", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -217,6 +246,7 @@ info = {
     {"Name":"Jay Wardhan Suri",
      "Enrollment_No" : "E23CSEU0330", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -224,6 +254,7 @@ info = {
     {"Name":"Chirag Sethi",
      "Enrollment_No" : "E23CSEU2421", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     },
 
@@ -231,6 +262,7 @@ info = {
     {"Name":"Ayushman Sirohi",
      "Enrollment_No" : "E23CSEU2422", 
      "Batch" : "11",
+     "Total Attendance" : "0",
      "Last_Attendance" : "2023-10-25 10-40-33"
     }
 
