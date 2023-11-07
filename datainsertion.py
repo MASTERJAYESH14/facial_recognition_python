@@ -7,6 +7,7 @@ firebase_admin.initialize_app(cred,{
     'databaseURL':"https://facerecognitionbu-default-rtdb.firebaseio.com/"
 })
 
+
 ref = db.reference("students")
 
 info = {
