@@ -6,6 +6,4 @@ The Firebase databse consist of Student's ids and their picture and encodings.
 
 NOVELITY: Our project is based on live atttendence marking i.e the database is updated as soon as a person marks his/her attendence. 
 
-Frontend- Divyansh Chouhan, 
-Backend- Aryan Tyagi, 
-API- Jayesh Anand
+Team members: Jayesh Anand, Aryan Tyagi, DIvyansh Chouhan
